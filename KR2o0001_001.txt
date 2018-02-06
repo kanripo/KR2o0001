@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB02n0037-001史通-卷第一.
 <pb:KR2o0001_SBCK_001-1a>¶
+# SB1_0305-018.png
 史通卷第一¶
 　内篇¶
 自古帝王編述文籍史言之備矣古徃今來質¶
@@ -180,6 +181,7 @@
 史通卷第一¶
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB02n0038-001史通札記-一卷.
+# ?
 <pb:KR2o0001_SBCK_001-1a>¶
 史通札記¶
 序錄¶

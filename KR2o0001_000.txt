@@ -121,6 +121,7 @@
 <pb:KR2o0001_SBCK_000-7b>¶
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB02n0038-000史通札記-札記補.
+# ?
 <pb:KR2o0001_SBCK_000-1a>¶
 史通札記補¶
 　　此書初校原刻顯誤之字有逕依校筆上石者今悉復原刻¶
